@@ -1,6 +1,6 @@
 # Open Handbook: Digital Literacy
 
-This repository is for the book on Digital Literacy
+This repository is for the book on Digital Literacy - A Practical Guide to Using Technology Wisely.
 
 ## Build
 
