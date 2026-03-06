@@ -13,6 +13,7 @@ book:
     - front-matter/license.qmd
     - front-matter/disclaimers.qmd
     - front-matter/printing.qmd
+    - front-matter/contribute.qmd
     - front-matter/preface.qmd
     - part: "Understanding the Digital World"
       chapters: 
@@ -53,7 +54,6 @@ book:
         - chapters/part8/artificial-intelligence-and-automation.qmd
         - chapters/part8/ethical-use-of-technology.qmd
         - chapters/part8/staying-digitally-literate.qmd
-    - back-matter/contribute.qmd
 
 format:
   pdf:

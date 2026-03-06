@@ -1,6 +1,6 @@
 # Disclaimers {.unnumbered}
 
-The information in this book is provided for education, learning, and hobby use only. The content is shared “as is.” We do not promise that everything in the book is complete, correct, or suitable for every situation.
+The information in this book is provided for education, learning, and hobby use only. The content is shared "as is." We do not promise that everything in the book is complete, correct, or suitable for every situation.
 
 The Open Handbook Commons and its contributors are not responsible for any problems, damages, or losses that may happen if someone uses the information in this book. Readers are responsible for making sure that any use of the information is safe, lawful, and appropriate for their situation.
 

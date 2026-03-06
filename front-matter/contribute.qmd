@@ -2,7 +2,5 @@
 
 This project is built on community contributions. People can help in many different ways. Some contributions are more technical, such as writing new sections, editing chapters, or helping with the tools used to build and publish the books. Other contributions can be much simpler, such as correcting typos and grammar, checking facts, identifying possible plagiarism, suggesting improvements, or helping make the text clearer.
 
-The main way we track suggestions and changes is through GitHub, where contributors can open issues, suggest edits, or submit improvements to the book.
-
-However, if you are not familiar with GitHub, you are still welcome to contribute. You can simply send your suggestions, corrections, or ideas by email to [contact@openhandbook.org](mailto:contact@openhandbook.org), and we will review them and include your contributions in the project.
+For more details on how to contribute, please visit our website at [https://openhandbook.org](https://openhandbook.org).
 

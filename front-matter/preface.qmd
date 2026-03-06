@@ -1,3 +1,15 @@
 # Preface {.unnumbered}
 
-Write about the book.
+Digital technology is now part of everyday life. Many people use computers, smartphones, and the internet every day. We use these tools to communicate with others, learn new things, work, read news, watch videos, and store information.
+
+Because of this, it is important to understand how to use digital technology in a safe, responsible, and effective way. This ability is called digital literacy.
+
+Digital literacy is more than knowing how to use a computer or a phone. It also includes knowing how to find reliable information on the internet, communicate respectfully online, protect personal information, recognize scams and false information, and create and share digital content responsibly.
+
+This book is written to help readers learn these skills. It explains digital tools and ideas in clear and simple language. The chapters introduce common technologies, explain how the internet works, and discuss topics such as online safety, misinformation, and responsible online behavior.
+
+This book is written for students, teachers, self-learners, and anyone who wants to better understand the digital world. No advanced technical knowledge is required to read this book.
+
+Technology continues to change quickly. New tools and services appear every year. The goal of digital literacy is not only to learn how to use current tools, but also to develop the skills needed to learn and adapt in the future.
+
+We hope this book helps readers feel more confident when using digital technology and encourages thoughtful and responsible use of the internet and digital tools.

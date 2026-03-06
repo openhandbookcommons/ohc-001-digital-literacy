@@ -20,6 +20,10 @@ Output will appear in `_book/`.
 
 **Note:** The rendered PDF will not be version-controlled on GitHub; it will be uploaded as a binary with each release.
 
+## Contribute
+
+If you wish to contribute to this book, please check out our [Authors Guidelines for detailed instructions](https://openhandbook.org/contribute/).
+
 ## Current List of Chapters
 
 Below is the current list of chapters. Note that many sections may be empty as the book is still evolving, providing an opportunity for you to contribute.
@@ -31,6 +35,7 @@ chapters:
     - front-matter/license.qmd
     - front-matter/disclaimers.qmd
     - front-matter/printing.qmd
+    - front-matter/contribute.qmd
     - front-matter/preface.qmd
     - part: "Understanding the Digital World"
       chapters: 
