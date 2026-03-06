@@ -1,0 +1,9 @@
+# Operating Systems and File Management
+
+## What an operating system does
+
+## Windows, macOS, Linux, Android, and iOS
+
+## Files, folders, and storage
+
+## Backups and cloud storage

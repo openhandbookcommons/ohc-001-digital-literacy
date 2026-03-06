@@ -1,0 +1,11 @@
+# Printing & Binding {.unnumbered}
+
+This PDF version of the book is made so it is easy to print at home and bind with spiral or comb binding.
+
+* Paper size: A4 (recommended for most countries)
+* If printing on US Letter paper: choose “Fit to printable area” or “Scale to fit”
+* Double-sided printing (recommended): select flip on long edge (if your printer supports double-sided printing)
+* Binding: spiral or comb binding (the left margin is wider to allow space for binding)
+
+It is a good idea to print one test page first to check that the margins and scaling look correct on your printer.
+

@@ -8,6 +8,7 @@
 
 # User-specific files
 .Ruserdata
+_book
 
 # Example code in package build process
 *-Ex.R
@@ -47,3 +48,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+/.quarto/
+**/*.quarto_ipynb

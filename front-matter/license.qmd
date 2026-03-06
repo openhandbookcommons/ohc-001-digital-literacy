@@ -1,0 +1,26 @@
+# License {.unnumbered}
+
+Unless otherwise noted, this book is released under the license:
+
+Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+This means you are free to:
+
+* Share — copy and distribute the book in any format.
+* Adapt — change, improve, or build on the content.
+
+You must follow these rules:
+
+* Attribution — You must give credit to the original project and mention if you made any changes.
+* NonCommercial — You may not use the material to make money.
+* ShareAlike — If you modify the content, you must share your version under the same license.
+
+## Simple explanation {.unlisted}
+
+You are welcome to download the book, print it, and share it with friends, family, schools, or community groups.
+
+However, you may not print and sell the book or produce it in large quantities for commercial purposes unless you receive permission from the project maintainers.
+
+Full legal text:
+[https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
