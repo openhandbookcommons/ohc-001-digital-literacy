@@ -1,0 +1,11 @@
+---
+title: Contributors
+---
+
+\clearpage
+
+This page was generated automatically from the GitHub repository `openhandbookcommons/ohc-001-digital-literacy` at render time.
+
+| Contributor | GitHub | Contributions |
+|---|---|---:|
+| rohitfarmer | [profile](https://github.com/rohitfarmer) | 5 |

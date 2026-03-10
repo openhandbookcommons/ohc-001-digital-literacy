@@ -1,9 +1,83 @@
 # What Is Digital Literacy?
 
-## Definition of digital literacy
+Digital technology is now part of everyday life. People use phones, computers, and the internet to communicate, learn, work, shop, and manage many daily tasks. Because of this, it has become important for people to understand how to use digital tools and how to think carefully about the information they see online. This ability is called digital literacy.
 
-## Why digital literacy matters today
+Digital literacy is not only about knowing how to use devices. It is also about understanding information, staying safe online, communicating responsibly, and making good decisions when using digital technology.
 
-## How technology shapes everyday life
+In this chapter, we explain what digital literacy means, why it matters today, how technology shapes everyday life, and how digital literacy is different from basic computer skills.
 
-## Digital literacy vs computer literacy
+
+
+## Definition of Digital Literacy
+
+Digital literacy means the ability to use digital devices, software, and the internet in a confident, safe, and responsible way. It includes several related skills.
+
+First, a digitally literate person knows how to use digital tools. This may include using a computer, smartphone, or tablet. It may also include using common software such as web browsers, email, word processors, and messaging apps.
+
+Second, digital literacy includes the ability to find and understand information online. The internet contains a huge amount of information, but not all of it is correct or reliable. A digitally literate person learns how to search for information, compare sources, and decide whether the information is trustworthy.
+
+Third, digital literacy includes communication skills. People communicate online through email (e.g. Gmail and Outlook), social media (e.g. Facebook and Instagram), forums (e.g. Reddit), and messaging platforms (e.g. WhatsApp, Signal and Telegram). Digital literacy means understanding how to communicate clearly and respectfully in these spaces.
+
+Fourth, digital literacy includes safety and responsibility. People need to know how to protect their personal information, recognize scams, avoid harmful websites, and understand how their actions online may affect others.
+
+Finally, digital literacy also includes the ability to create and share digital content. This may include writing documents, making presentations, posting on blogs, sharing photos, or creating videos.
+
+In simple terms, digital literacy means using technology in a thoughtful and responsible way.
+
+
+
+## Why Digital Literacy Matters Today
+
+Digital literacy is important because many parts of modern life now depend on digital technology.
+
+Education is one example. Many schools and universities use online learning platforms, digital textbooks, and video lectures. Students often submit assignments online and work with digital tools for research and writing. Without digital literacy, it becomes difficult to participate fully in modern education.
+
+Workplaces also rely heavily on digital technology. Many jobs require people to use email, office software, online collaboration tools, and specialized computer programs. Even jobs that were once mostly physical now often include some digital tasks.
+
+Communication has also changed. Many people stay in touch with friends, family, and coworkers through messaging apps, social media, and video calls. Digital literacy helps people communicate clearly and understand the rules and expectations of online communication.
+
+Government services are increasingly online as well. People may need to access websites to pay taxes, apply for permits, manage benefits, or access public information. Being digitally literate helps people use these services more easily.
+
+Digital literacy is also important for safety. The internet includes scams, misinformation, and harmful content. People who understand how the digital world works are better able to recognize risks and protect themselves.
+
+Because technology is now part of everyday life, digital literacy has become an essential life skill.
+
+
+
+## How Technology Shapes Everyday Life
+
+Digital technology influences many small and large parts of daily life.
+
+Many people start their day by checking their phone. They may read messages, look at news, check the weather, or review their schedule. Smartphones have become tools for communication, planning, and entertainment.
+
+Online services also affect how people shop and manage money. People may buy products online, compare prices, read reviews, and use digital payment systems. Banking is often done through mobile apps or websites instead of visiting a physical branch.
+
+Transportation has also changed. People use navigation apps (e.g. Google Maps) to find directions, check traffic, and choose the fastest route. Ride-sharing apps (e.g. Uber) allow people to request transportation with a few taps on their phone.
+
+Entertainment has become largely digital as well. People watch movies through streaming services (e.g. Netflix), listen to music online (e.g. Spotify), and play games on computers and phones. Books, newspapers, and magazines are often read on digital devices (e.g. Kindle).
+
+Work has also changed because of digital technology. Many people work remotely using video meetings, shared documents, and online collaboration tools. Teams may work together even when they are in different cities or countries.
+
+Social life is influenced by technology too. Social media platforms allow people to share photos, ideas, and experiences with others. These platforms can help people stay connected, but they can also spread misinformation or create pressure to compare lives with others.
+
+Because technology touches so many areas of life, understanding how it works has become very important.
+
+
+
+## Digital Literacy vs Computer Literacy
+
+The terms digital literacy and computer literacy are sometimes used in similar ways, but they do not mean exactly the same thing.
+
+Computer literacy usually refers to the ability to use a computer and basic software. For example, a computer-literate person may know how to open programs, create documents, send emails, and manage files. These are technical skills related to using a computer.
+
+Digital literacy is a broader concept. It includes computer skills, but it also includes understanding how the digital world works and how to behave responsibly online.
+
+For example, digital literacy includes the ability to evaluate information on the internet. A person should be able to recognize misleading headlines, false information, or unreliable sources.
+
+Digital literacy also includes understanding privacy and security. People should know how to create strong passwords, recognize phishing attempts, and protect personal information.
+
+Another part of digital literacy is understanding digital communication. Online conversations can easily be misunderstood, and messages can spread quickly. Being digitally literate means communicating respectfully and thinking carefully before sharing information.
+
+In short, computer literacy focuses on using computers, while digital literacy focuses on understanding and using the entire digital environment responsibly.
+
+Digital literacy is an important skill for modern life. As technology continues to change, people will need to keep learning and adapting. The goal of digital literacy is not only to use technology effectively, but also to use it thoughtfully, safely, and responsibly.

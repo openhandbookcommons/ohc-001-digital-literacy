@@ -1,7 +1,9 @@
 project:
   type: book
   output-dir: _book
+  pre-render: scripts/render_contributors.py
   post-render: scripts/add_cover.py
+
 
 book:
   title: "Open Handbook: Digital Literacy"
@@ -54,6 +56,11 @@ book:
         - chapters/part8/artificial-intelligence-and-automation.qmd
         - chapters/part8/ethical-use-of-technology.qmd
         - chapters/part8/staying-digitally-literate.qmd
+  
+  appendices:
+    - email-contributors.qmd
+    - contributors.qmd
+
 
 format:
   pdf:
