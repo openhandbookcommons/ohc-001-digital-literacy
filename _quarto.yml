@@ -58,7 +58,6 @@ book:
         - chapters/part8/staying-digitally-literate.qmd
   
   appendices:
-    - email-contributors.qmd
     - contributors.qmd
 
 
@@ -69,7 +68,7 @@ format:
     classoption: openany
     papersize: A4
     fontsize: 11pt
-    linestretch: 1.2
+    #linestretch: 1
     geometry:
       - top=20mm
       - bottom=25mm
