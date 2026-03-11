@@ -14,7 +14,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent.parent
-OUTPUT_QMD = ROOT / "contributors.qmd"
+OUTPUT_QMD = ROOT / "back-matter/contributors.qmd"
 
 
 def run_cmd(cmd: list[str]) -> str:

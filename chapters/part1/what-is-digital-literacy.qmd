@@ -10,7 +10,7 @@ In this chapter, we explain what digital literacy means, why it matters today, h
 
 ## Definition of Digital Literacy
 
-Digital literacy means the ability to use digital devices, software, and the internet in a confident, safe, and responsible way. It includes several related skills.
+Digital literacy\index{Digital literacy} means the ability to use digital devices, software, and the internet in a confident, safe, and responsible way. It includes several related skills.
 
 First, a digitally literate person knows how to use digital tools. This may include using a computer, smartphone, or tablet. It may also include using common software such as web browsers, email, word processors, and messaging apps.
 

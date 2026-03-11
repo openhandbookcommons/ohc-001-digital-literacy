@@ -1,7 +1,7 @@
 project:
   type: book
   output-dir: _book
-  #pre-render: scripts/render_contributors.py
+  pre-render: scripts/render_contributors.py
   post-render: scripts/add_cover.py
 
 
@@ -9,7 +9,7 @@ book:
   title: "Open Handbook: Digital Literacy"
   subtitle: "A Practical Guide to Using Technology Wisely"
   author: "Open Handbook Commons (community-authored)"
-  id: "ohc-001-digital-literacy"
+  output-file: "ohc-001-digital-literacy"
   date: last-modified
   chapters:
     - index.qmd
@@ -56,10 +56,9 @@ book:
       chapters:
         - chapters/part8/artificial-intelligence-and-automation.qmd
         - chapters/part8/ethical-use-of-technology.qmd
-        - chapters/part8/staying-digitally-literate.qmd
-  
+        - chapters/part8/staying-digitally-literate.qmd  
   appendices:
-    - contributors.qmd
+    - back-matter/contributors.qmd
 
 
 format:
@@ -71,10 +70,10 @@ format:
     fontsize: 11pt
     #linestretch: 1
     geometry:
-      - top=20mm
+      - top=25mm
       - bottom=25mm
-      - left=30mm
-      - right=20mm
+      - left=25mm
+      - right=25mm
     mainfont: LibertinusSerif
     mainfontoptions:
       - Path=fonts/
@@ -86,6 +85,13 @@ format:
     toc: true
     number-sections: true
     colorlinks: true
+    include-in-header: 
+      text: |
+        \usepackage{imakeidx}
+        \makeindex[intoc=true, columns=3, columnseprule=true]
+    include-after-body: 
+      text: |
+        \printindex
 
 ohc:
   cover:
