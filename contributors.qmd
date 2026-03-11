@@ -7,4 +7,4 @@ This page was generated automatically from the GitHub repository `openhandbookco
 
 | Contributor | GitHub | Contributions |
 |---|---|---:|
-| rohitfarmer | [profile](https://github.com/rohitfarmer) | 6 |
+| rohitfarmer | [profile](https://github.com/rohitfarmer) | 7 |

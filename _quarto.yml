@@ -1,7 +1,7 @@
 project:
   type: book
   output-dir: _book
-  pre-render: scripts/render_contributors.py
+  #pre-render: scripts/render_contributors.py
   post-render: scripts/add_cover.py
 
 
@@ -9,6 +9,7 @@ book:
   title: "Open Handbook: Digital Literacy"
   subtitle: "A Practical Guide to Using Technology Wisely"
   author: "Open Handbook Commons (community-authored)"
+  id: "ohc-001-digital-literacy"
   date: last-modified
   chapters:
     - index.qmd
