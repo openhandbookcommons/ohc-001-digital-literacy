@@ -2,6 +2,8 @@
 
 This repository is for the book on Digital Literacy - A Practical Guide to Using Technology Wisely.
 
+Archived on Zenodo at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18962490.svg)](https://doi.org/10.5281/zenodo.18962490)
+
 ## Build
 
 ### Prerequisites
